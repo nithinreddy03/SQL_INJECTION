@@ -18,13 +18,13 @@
 
 **SQL injection, also known as SQLI, is a common attack vector that uses malicious SQL code for backend database manipulation to access information that was not intended to be displayed.**
 
-### What's unique in this Project
+## What's unique in this Project
 * Attack Scenario: Exploiting input fields in the admin page, attackers inject malicious SQL commands, potentially accessing sensitive data or compromising the system's integrity.
 * Preventive Measures: Implementing parameterized queries, input validation, and proper user input sanitization in XAMPP's LAMP stack setup fortifies the application against SQL injection vulnerabilities.
 * Using XAMPP: Leveraging XAMPP, the project integrates robust security practices within the LAMP stack, ensuring resilience against SQL injection attacks in the admin page.
 
-### Installation
-## To get the project working, you need to install the following dependencies.
+## Installation
+### To get the project working, you need to install the following dependencies.
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.33/
 
 **after installing you will see the page.**
