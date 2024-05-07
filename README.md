@@ -33,19 +33,20 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.33/
 
 ## Technologies
 ### Front End
-HTML5
-CSS3
-Bootstrap4
-JavaScript
+* HTML5
+* CSS3
+* Bootstrap4
+* JavaScript
 
 ### Back End
-XAMPP
-Apache HTTP Server
-MySQL database
-PHP
+* XAMPP
+* Apache HTTP Server
+* MySQL database
+* PHP
 
 ### DEMO IMAGES
 ![Screenshot 2024-05-08 011753](https://github.com/nithinreddy03/SQL_INJECTION/assets/122984348/5e0bab39-3096-4d37-a4f7-98bd3748ebf3)
+
 ![Screenshot 2024-05-08 012120](https://github.com/nithinreddy03/SQL_INJECTION/assets/122984348/0c602405-571b-4f13-9b42-f2dcc34ae51a)
 
 
