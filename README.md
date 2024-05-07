@@ -28,16 +28,17 @@
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.33/
 
 **after installing you will see the page.**
+
 ![Screenshot 2024-05-08 015242](https://github.com/nithinreddy03/SQL_INJECTION/assets/122984348/cef17cc4-6eb5-4fed-866d-f574a9e601b5)
 
-### Technologies
-## Front End
+## Technologies
+### Front End
 HTML5
 CSS3
 Bootstrap4
 JavaScript
 
-## Back End
+### Back End
 XAMPP
 Apache HTTP Server
 MySQL database
